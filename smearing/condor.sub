@@ -1,0 +1,10 @@
+executable  = /afs/cern.ch/user/e/eyuksel/Condor/smearing/condor.sh
+output      = output/pyth.out
+error       = error/pyth.err
+log         = log/pyth.log
++JobFlavour = "workday"
+
+request_memory = 128000
+
+transfer_output_files = ""
+queue

@@ -1,0 +1,2 @@
+  File "/afs/cern.ch/user/e/eyuksel/pythia8186/examples/main02.exe", line 1
+SyntaxError: Non-ASCII character '\xf8' in file /afs/cern.ch/user/e/eyuksel/pythia8186/examples/main02.exe on line 2, but no encoding declared; see http://www.python.org/peps/pep-0263.html for details

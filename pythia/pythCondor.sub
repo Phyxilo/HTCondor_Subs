@@ -1,0 +1,7 @@
+executable  = /afs/cern.ch/user/e/eyuksel/Condor/pythia/pythCondor.sh
+output      = output/pyth.out
+error       = error/pyth.err
+log         = log/pyth.log
++JobFlavour = "longlunch"
+transfer_output_files = ""
+queue 1
